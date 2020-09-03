@@ -16,7 +16,7 @@ Book Contents # Chapter 1 ~ 3 by 정아
 ## 📝 Materials
 
 ### 🗣 Book Contents (정아)
-
+[Presentation Link](https://github.com/TinyML-Study/TinyML-Study/blob/master/week-1/materials/tinyml-week1-book-contents-by-arie.pdf)
 ### 🗣 Brief Seminar 1 (예솔)
 
 **Hugging Face와 유용한 Data Augmentation 오픈소스 소개**
