@@ -11,12 +11,15 @@ Book Contents # Chapter 1 ~ 3 by 정아
 └ Brief Seminar 3 # 1주차 도서 내용 리뷰 및 가용 하드웨어 소개 by 진구
 ```
 
-
+<br/>
 
 ## 📝 Materials
 
 ### 🗣 Book Contents (정아)
+**Chapter 1 -3**
+
 [Presentation Link](https://github.com/TinyML-Study/TinyML-Study/blob/master/week-1/materials/tinyml-week1-book-contents-by-arie.pdf)
+
 ### 🗣 Brief Seminar 1 (예솔)
 
 **Hugging Face와 유용한 Data Augmentation 오픈소스 소개**
@@ -31,7 +34,7 @@ Book Contents # Chapter 1 ~ 3 by 정아
 
 ### 🗣 Brief Seminar 3 (진구)
 
-
+<br/>
 
 ## 🔜 Upcoming for Next Week
 
