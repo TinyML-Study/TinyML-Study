@@ -6,9 +6,13 @@
 
 매주 목요일 오후 9시 10분 ~ ***(1시간)***
 
+
+
 ### 💬 스터디 장소
 
 온라인 진행 (***zoom.us*** or ***google hangouts***)
+
+
 
 ### 🗣 스터디 구성
 
@@ -25,6 +29,8 @@
 
         ***해당 주차 내용과 관련하여 관심 있는 논문, 엔지니어링 지식 기타 등등***
 
+
+
 ### 📝 진행 계획
 
 > **제외할 부분**
@@ -37,53 +43,57 @@
 > ***실습이 있는 날은 스터디 시간 전까지 실습 코드 따라치고, Github 에 올리기 <br/>
 > 실습 진행을 못했을 시에는 벌금 🔥***
 
-📕**1주차**
+
+
+📕 **1주차 (+ 2주차**
 
 - 일시 : 9월 3일 목요일 21:10 ~
-- 도서 : Chapter 1 ~ 5 (***1. Introduction*** ~ ***5. The "Hello World" of TinyML: Building an Application***)
-- 발표자: 정아
+- 도서 : Chapter 1 ~ 5 (**1. Introduction** ~ **5. The "Hello World" of TinyML: Building an Application**)
+- 발표자: **정아**
 
-💻2**주차**
-
-- 일시 : 9월 10일 목요일 21:10 ~
-- 도서 : Chapter 7 ~ 8 (***7. Wake-Word Detection: Building an Application*** ~ ***8. Wake-Word Detection: Building an Application***)
-- 발표자:
-
-💻3**주차**
+💻 3**주차**
 
 - 일시 : 9월 17일 목요일 21:10 ~
-- 도서 : Chapter 9 ~ 10 (***9. Person Detection: Building an Application*** ~ ***10. Person Detection: Building an Application***)
-- 발표자:
+- 도서 : Chapter 9 ~ 10 (**9. Person Detection: Building an Application** ~ **10. Person Detection: Training a model**)
+- 발표자: **예솔**
 
-💻4**주차**
+💻 4**주차**
 
 - 일시 : 9월 24일 목요일 21:10 ~
-- 도서 : Chapter 11 ~ 12 (***11. Magic Wand: Building an Application*** ~ ***12. Magic Wand: Building an Application***)
-- 발표자:
+- 도서 : Chapter 7 ~ 8 (**7. Wake-Word Detection: Building an Application** ~ **8. Wake-Word Detection: Training a model**)
+- 발표자: **진구**
 
-📕5**주차**
+💻 5**주차**
 
 - 일시 : 10월 1일 목요일 21:10 ~
-- 도서 : Chapter 13 ~ 14 (***13. Tensorflow Lite for Microcontrollers*** ~ ***14. Designing your own TinyML Applications***)
-- 발표자
+- 도서 : Chapter 11 ~ 12 (**11. Magic Wand: Building an Application** ~ **12. Magic Wand: Training a model**)
+- 발표자: **정아**
 
-📕6**주차**
+📕 6**주차**
 
 - 일시 : 10월 8일 목요일 21:10 ~
-- 도서 : Chapter 15 ~ 16 (***15. Optimizing Latency*** ~ ***16. Optimizing Energy Use***)
-- 발표자:
+- 도서 : Chapter 13 ~ 14 (**13. Tensorflow Lite for Microcontrollers** ~ **14. Designing your own TinyML Applications**)
+- 발표자 : **미진**
 
-📕7**주차**
+📕 7**주차**
 
 - 일시 : 10월 15일 목요일 21:10 ~
-- 도서 : Chapter 17 ~ 18 (***17. Optimizing model and binary size*** ~ ***18. Debugging***)
-- 발표자:
+- 도서 : Chapter 15 ~ 16 (**15. Optimizing Latency** ~ **16. Optimizing Energy Usage**)
+- 발표자: **한용**
 
-📕8**주차**
+📕 8**주차**
 
 - 일시 : 10월 22일 목요일 21:10 ~
-- 도서 : Chapter 19 ~ 20 (***19. Porting models from Tensorflow to Tensorflow Lite*** ~ ***20. Privacy, security and deployment***)
-- 발표자:
+- 도서 : Chapter 17 ~ 18 (**17. Optimizing model and binary size** ~ **18. Debugging**)
+- 발표자: **[TBD]**
+
+📕 9**주차**
+
+- 일시 : 10월 29일 목요일 21:10 ~
+- 도서 : Chapter 19 ~ 20 (**19. Porting models from Tensorflow to Tensorflow Lite** ~ **20. Privacy, security and deployment**)
+- 발표자: **[TBD]**
+
+
 
 ### 💸 벌금
 
@@ -93,7 +103,9 @@
 
 간단 발표 준비를 못해왔을 때: 2000원
 
-실습 진행을 못했을 때: 2000원 
+실습 진행을 못했을 때: 2000원
+
+
 
 ### 📚도서 구입 안내
 
