@@ -65,31 +65,31 @@
 
 💻 5**주차**
 
-- 일시 : 10월 1일 목요일 21:10 ~
+- 일시 : 10월 15일 목요일 21:10 ~
 - 도서 : Chapter 11 ~ 12 (**11. Magic Wand: Building an Application** ~ **12. Magic Wand: Training a model**)
 - 발표자: **정아**
 
 📕 6**주차**
 
-- 일시 : 10월 8일 목요일 21:10 ~
+- 일시 : 10월 22일 목요일 21:10 ~
 - 도서 : Chapter 13 ~ 14 (**13. Tensorflow Lite for Microcontrollers** ~ **14. Designing your own TinyML Applications**)
 - 발표자 : **미진**
 
 📕 7**주차**
 
-- 일시 : 10월 15일 목요일 21:10 ~
+- 일시 : 10월 29일 목요일 21:10 ~
 - 도서 : Chapter 15 ~ 16 (**15. Optimizing Latency** ~ **16. Optimizing Energy Usage**)
 - 발표자: **한용**
 
 📕 8**주차**
 
-- 일시 : 10월 22일 목요일 21:10 ~
+- 일시 : 11월 5일 목요일 21:10 ~
 - 도서 : Chapter 17 ~ 18 (**17. Optimizing model and binary size** ~ **18. Debugging**)
 - 발표자: **[TBD]**
 
 📕 9**주차**
 
-- 일시 : 10월 29일 목요일 21:10 ~
+- 일시 : 11월 12일 목요일 21:10 ~
 - 도서 : Chapter 19 ~ 20 (**19. Porting models from Tensorflow to Tensorflow Lite** ~ **20. Privacy, security and deployment**)
 - 발표자: **[TBD]**
 

@@ -1,7 +1,5 @@
 # Week 1 Summary
 
-
-
 ## 💬 Contents
 
 ```python
@@ -11,12 +9,11 @@ Book Contents # Chapter 1 ~ 3 by 정아
 └ Lightning Talk 3 # 1주차 도서 내용 리뷰 및 가용 하드웨어 소개 by 진구
 ```
 
-<br/>
-
 ## 📝 Materials
 
 ### 🗣 Book Contents (정아)
-**Chapter 1 -3**
+
+**Chapter 1 ~ 3**
 
 [Presentation Link](https://github.com/TinyML-Study/TinyML-Study/blob/master/week-1/materials/tinyml-week1-book-contents-by-arie.pdf)
 
@@ -36,11 +33,11 @@ Book Contents # Chapter 1 ~ 3 by 정아
 
 ### 🗣 Lightning Talk 3 (진구)
 
-<br/>
+**Need to be Updated**
 
 ## 🔜 Upcoming for Next Week
 
 ```python
 Book Contents # Chapter 4 ~ 5 by 정아
-└ Brief Lightning Talk 1 # Tensorflow Lite Business Case 소개 [TBD] by 한용
+└ Lightning Talk 1 # by 한용
 ```
