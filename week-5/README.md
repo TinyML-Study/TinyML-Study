@@ -28,7 +28,9 @@ Book Contents # Chapter 11 ~ 12 by 정아
 
 ### 🗣 Lightning Talk 3 (미진)
 
-**Need to be Updated**
+**COVID-19 관련 TinyML + Arduino 프로젝트 소개**
+
+[Spectrino: TinyML Arduino & IoT Based Touch-Free Solutions](https://create.arduino.cc/projecthub/dhruvsheth_/spectrino-tinyml-arduino-iot-based-touch-free-solutions-d8d363?ref=tag&ref_id=machine%20learning&offset=13)
 
 ### 🗣 Lightning Talk 4 (예솔)
 
