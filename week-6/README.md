@@ -16,7 +16,7 @@ Book Contents # Chapter 13 ~ 14 by 미진
 
 **Chapter 13 ~ 14**
 
-[Presentation Link](week-6/materials/tinyml-week6-book-contents-by-mijin.pdf)
+[Presentation Link](materials/tinyml-week6-book-contents-by-mijin.pdf)
 
 ### 🗣 Lightning Talk 1 (정아)
 
