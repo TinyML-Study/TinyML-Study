@@ -1,45 +1,43 @@
-# Week 5 Summary
+# Week 6 Summary
 
 ## 💬 Contents
 
 ```python
-Book Contents # Chapter 11 ~ 12 by 정아
-└ Lightning Talk 1 # by 한용
+Book Contents # Chapter 13 ~ 14 by 미진
+└ Lightning Talk 1 # by 정아
 └ Lightning Talk 2 # by 진구
-└ Lightning Talk 3 # by 미진
+└ Lightning Talk 3 # by 한용
 └ Lightning Talk 3 # by 예솔
 ```
 
 ## 📝 Materials
 
-### 🗣 Book Contents (정아)
+### 🗣 Book Contents (미진)
 
-**Chapter 11 ~ 12**
+**Chapter 13 ~ 14**
 
-[Presentation Link]()
+[Presentation Link](week-6/materials/tinyml-week6-book-contents-by-mijin.pdf)
 
-### 🗣 Lightning Talk 1 (한용)
+### 🗣 Lightning Talk 1 (정아)
 
-**Need to be Updated**
+**Need to be updated**
 
 ### 🗣 Lightning Talk 2 (진구)
 
-**Need to be Updated**
+**Need to be updated**
 
-### 🗣 Lightning Talk 3 (미진)
+### 🗣 Lightning Talk 3 (한용)
 
-**COVID-19 관련 TinyML + Arduino 프로젝트 소개**
-
-[Spectrino: TinyML Arduino & IoT Based Touch-Free Solutions](https://create.arduino.cc/projecthub/dhruvsheth_/spectrino-tinyml-arduino-iot-based-touch-free-solutions-d8d363?ref=tag&ref_id=machine%20learning&offset=13)
+**Need to be updated**
 
 ### 🗣 Lightning Talk 4 (예솔)
 
-**Need to be Updated**
+**Need to be updated**
 
 ## 🔜 Upcoming for Next Week
 
 ```python
-Book Contents # Chapter 13 ~ 14 by 미진
+Book Contents # Chapter 15 ~ 16 by 한용
 └ Lightning Talk 1
 └ Lightning Talk 2 
 └ Lightning Talk 3 
