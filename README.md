@@ -85,15 +85,12 @@
 
 - 일시 : 11월 5일 목요일 21:10 ~
 - 도서 : Chapter 17 ~ 18 (**17. Optimizing model and binary size** ~ **18. Debugging**)
-- 발표자: **[TBD]**
+- 발표자: **예솔**
 
 📕 9**주차**
 
 - 일시 : 11월 12일 목요일 21:10 ~
 - 도서 : Chapter 19 ~ 20 (**19. Porting models from Tensorflow to Tensorflow Lite** ~ **20. Privacy, security and deployment**)
-- 발표자: **[TBD]**
-
-
 
 ### 💸 벌금
 
